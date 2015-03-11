@@ -18,5 +18,6 @@ int main(int argc, char** argv) {
 	    	cout<<n<<" ";
 	    }
 	}
+        cout<<endl;
 	return 0;
 }
